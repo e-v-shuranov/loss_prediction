@@ -1,0 +1,17 @@
+iter 0: loss 11.0261, time 8039.69ms, mfu -100.00%
+iter 30: loss 7.1620, time 133.91ms, mfu 31.27%
+iter 60: loss 6.6722, time 132.43ms, mfu 31.31%
+iter 90: loss 6.4720, time 133.06ms, mfu 31.33%
+iter 120: loss 6.3573, time 131.80ms, mfu 31.37%
+iter 150: loss 6.2942, time 132.27ms, mfu 31.40%
+iter 180: loss 6.2176, time 135.10ms, mfu 31.36%
+iter 210: loss 6.2148, time 134.49ms, mfu 31.34%
+iter 240: loss 5.8783, time 132.75ms, mfu 31.36%
+iter 270: loss 5.9972, time 136.30ms, mfu 31.30%
+iter 300: loss 6.0249, time 133.47ms, mfu 31.30%
+iter 330: loss 5.8716, time 133.43ms, mfu 31.31%
+iter 360: loss 5.8543, time 133.14ms, mfu 31.33%
+iter 390: loss 5.8803, time 132.44ms, mfu 31.36%
+iter 420: loss 5.8189, time 133.71ms, mfu 31.35%
+iter 450: loss 5.7120, time 135.18ms, mfu 31.32%
+iter 480: loss 5.7494, time 134.25ms, mfu 31.30%
